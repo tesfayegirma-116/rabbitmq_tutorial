@@ -1,6 +1,6 @@
 # RabbitMQ Tutorial
 
-![RabbitMQ Logo](https://www.rabbitmq.com/img/rabbitmq-logo.svg)
+![RabbitMQ Logo](https://www.rabbitmq.com/img/logo-rabbitmq.svg)
 
 RabbitMQ is a highly reliable enterprise messaging system based on the AMQP standard. It provides robust messaging for applications and is easy to use. This tutorial will guide you through setting up and using RabbitMQ.
 

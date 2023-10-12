@@ -18,14 +18,10 @@ RabbitMQ is a highly reliable enterprise messaging system based on the AMQP stan
 1. Download the RabbitMQ installer from the [official website](https://www.rabbitmq.com/download.html)
 2. Run the installer.
 
-![Installation](installation-url)
-
 ### Linux
 
 1. Update your system and install RabbitMQ server.
 
-
-![Installation](installation-url)
 
 ## Getting Started
 
